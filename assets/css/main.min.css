@@ -224,7 +224,7 @@ figcaption {
     line-height:1.3;
     color:#4d4d4b
 }
-/*.image-credit {
+.image-credit {
     display:inline;
     display:block;
     float:left;
@@ -239,7 +239,7 @@ figcaption {
     color:#80807e;
     text-align:right;
     font-weight: 300;
-    font-family: 'Muli', sans-serif;*/
+    font-family: 'Muli', sans-serif;
 }
 .image-credit a {
     color:#80807e
