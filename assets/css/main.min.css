@@ -2492,7 +2492,7 @@ ol, ul {
     padding:2.625em 1.875em
 }
 footer[role=contentinfo] {
-    background:#ddd
+    background:#ecf0f1
 }
 @media screen and (min-width:45.0625em) {
     #nav .block-title, #nav .close-btn, #top .nav-btn {
