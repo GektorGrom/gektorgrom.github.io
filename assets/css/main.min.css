@@ -163,7 +163,7 @@ h1 {
     margin-bottom:1.625rem;
     font-size:32px;
     font-size:2rem;
-    line-height:.8125
+    line-height:1.225
 }
 h2 {
     margin-bottom:26px;
@@ -1198,7 +1198,8 @@ body {
     font-family: 'Istok Web', sans-serif;
     background-color:#fff;
     font-color:#333332;
-    font-weight:500;
+    font-weight:400;
+    line-height: 1.3em;
 }
 .navigation-wrapper {
     width:100%;
