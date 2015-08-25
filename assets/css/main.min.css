@@ -2226,7 +2226,7 @@ img.mfp-img {
     #index, #main article {
         display:inline;
         float:left;
-        width:50%;
+        width:40%;
         margin-right:0;
         margin-left:0
     }
@@ -2706,4 +2706,9 @@ footer[role=contentinfo] {
 #nav li:hover:before, #nav li:focus:before, #nav li:active:before {
   left: 0;
   right: 0;
+}
+
+.wide_nano {
+    width: 150%;
+    margin-left: -25% !important;
 }
