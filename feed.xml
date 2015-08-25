@@ -3,8 +3,8 @@
 	<channel>
 		<title>GektorGrom&#39;s Blog</title>
 		<description>Жизнь в Канаде.</description>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://jesse.co.ua</link>
+		<atom:link href="http://jesse.co.ua/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Pow wow - праздник коренных жителей Северной Америки</title>
@@ -16,8 +16,8 @@
 </description>
 				
 				<pubDate>Sun, 23 Aug 2015 12:54:00 -0600</pubDate>
-				<link>/powwow_2015</link>
-				<guid isPermaLink="true">/powwow_2015</guid>
+				<link>http://jesse.co.ua/powwow_2015</link>
+				<guid isPermaLink="true">http://jesse.co.ua/powwow_2015</guid>
 			</item>
 		
 			<item>
@@ -29,8 +29,8 @@
 </description>
 				
 				<pubDate>Sat, 06 Jun 2015 07:09:47 -0600</pubDate>
-				<link>/ribbon_falls_trail</link>
-				<guid isPermaLink="true">/ribbon_falls_trail</guid>
+				<link>http://jesse.co.ua/ribbon_falls_trail</link>
+				<guid isPermaLink="true">http://jesse.co.ua/ribbon_falls_trail</guid>
 			</item>
 		
 			<item>
@@ -43,8 +43,8 @@
 </description>
 				
 				<pubDate>Sat, 30 Aug 2014 00:00:00 -0600</pubDate>
-				<link>/service_in_Canada</link>
-				<guid isPermaLink="true">/service_in_Canada</guid>
+				<link>http://jesse.co.ua/service_in_Canada</link>
+				<guid isPermaLink="true">http://jesse.co.ua/service_in_Canada</guid>
 			</item>
 		
 			<item>
@@ -58,8 +58,8 @@
 </description>
 				
 				<pubDate>Sun, 06 Apr 2014 00:00:00 -0600</pubDate>
-				<link>/RDPL</link>
-				<guid isPermaLink="true">/RDPL</guid>
+				<link>http://jesse.co.ua/RDPL</link>
+				<guid isPermaLink="true">http://jesse.co.ua/RDPL</guid>
 			</item>
 		
 			<item>
@@ -71,8 +71,8 @@
 </description>
 				
 				<pubDate>Sat, 22 Mar 2014 11:07:03 -0600</pubDate>
-				<link>/townhouse</link>
-				<guid isPermaLink="true">/townhouse</guid>
+				<link>http://jesse.co.ua/townhouse</link>
+				<guid isPermaLink="true">http://jesse.co.ua/townhouse</guid>
 			</item>
 		
 			<item>
@@ -86,8 +86,8 @@
 </description>
 				
 				<pubDate>Mon, 25 Nov 2013 05:56:00 -0700</pubDate>
-				<link>/work_1</link>
-				<guid isPermaLink="true">/work_1</guid>
+				<link>http://jesse.co.ua/work_1</link>
+				<guid isPermaLink="true">http://jesse.co.ua/work_1</guid>
 			</item>
 		
 			<item>
@@ -106,8 +106,8 @@ Galaxy кинотеатр достойный, без IMAX, но пойдет - �
 </description>
 				
 				<pubDate>Thu, 07 Nov 2013 10:38:11 -0700</pubDate>
-				<link>/movie</link>
-				<guid isPermaLink="true">/movie</guid>
+				<link>http://jesse.co.ua/movie</link>
+				<guid isPermaLink="true">http://jesse.co.ua/movie</guid>
 			</item>
 		
 			<item>
@@ -119,8 +119,8 @@ Galaxy кинотеатр достойный, без IMAX, но пойдет - �
 </description>
 				
 				<pubDate>Mon, 04 Nov 2013 09:53:24 -0700</pubDate>
-				<link>/Flight</link>
-				<guid isPermaLink="true">/Flight</guid>
+				<link>http://jesse.co.ua/Flight</link>
+				<guid isPermaLink="true">http://jesse.co.ua/Flight</guid>
 			</item>
 		
 	</channel>
